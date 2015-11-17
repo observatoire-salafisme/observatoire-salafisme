@@ -7,27 +7,38 @@ html {
 	font-family: Tahoma, Geneva, sans-serif;
 }
 
+h1,h2 {
+	font-family: Propaganda;
+	font-size: 2.2em;
+}
+
 body {
 	background-color: #CCD;
+	min-width: 520px;
 }
 
 header {
 	background-color: #213F85;
 	color: white;
+	width: 100%;
 	text-align: center;
 }
 
-header {
+header>div {
+	display: flex;
+	align-items: center;
+	margin: auto;
+	text-align: left;
 }
 
 header img {
-	height: 20vh;
+	vertical-align: middle;
+	flex: none;
+	width: 200px;
 }
 
 header nav div {
-	border-left: 1px border white;
 	display: table-cell;
-	vertical-align: middle;
 	padding-bottom: 5px;
 	padding: 15px 30px 10px;
 }
@@ -37,14 +48,7 @@ header nav div:hover, header nav div.current {
 	padding-bottom: 5px;
 }
 
-h1 {
-	font-family: Propaganda;
-	font-size: 2.2em;
-	padding: 15px;
-}
-
 h2 {
-	font-family: Propaganda;
 	text-align: center;
 	color: #213F85;
 	font-size: 1.6em;
@@ -105,7 +109,7 @@ th, td {
 }
 
 tbody tr:nth-child(even) {
-	background-color: rgba(0, 108, 53, 0.3);
+	background-color: rgba(33, 33, 133, 0.3);
 }
 
 tbody tr:nth-child(odd) {
@@ -116,9 +120,26 @@ form {
 	text-align: center;
 }
 
+form p {
+	width: 60%;
+}
+
 input, textarea, select {
 	width: 60%;
-	margin-bottom: 15px;
+	max-width: 60%;
+	min-width: 60%;
+	margin: 5px 0 15px;
+}
+
+input[type="submit"] {
+	background-color: #213F85;
+	color: white;
+	border: 1px solid black;
+	font-weight: bold;
+	font-size: 1.4em;
+	padding: 10px;
+	font-family: Propaganda;
+	cursor: pointer;
 }
 
 ul {

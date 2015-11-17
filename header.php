@@ -1,7 +1,7 @@
 <header>
 	<div>
 		<img src="logo.png"/>
-		<h1>Observatoire Associatif du Salafisme</h1>
+		<div><h1>Observatoire Associatif du Salafisme</h1></div>
 	</div>
 	<nav>
 		<a href="index.php"><div>Carte</div></a>

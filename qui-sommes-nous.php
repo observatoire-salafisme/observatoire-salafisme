@@ -4,7 +4,7 @@
 <body>
 	<?php include("header.php"); ?>
 	<section>
-		<h2>Qui sommes-nous ?</h2>
+		<h2>Qui sommes-nous</h2>
 		<p>
 			<strong>L'Observatoire de l'implantation salafiste est un projet participatif citoyen fondé suite aux attentats du 13 novembre 2015.</strong> L’observatoire cherche à exploiter le pouvoir de l’internet dans un projet collaboratif de prévention du terrorisme. Nous sommes foncièrement convaincus que la violence n’est pas une solution est que la prévention par la mutualisation des informations permettra de la limiter.
 		</p>
