@@ -1,6 +1,6 @@
 @font-face {
-    font-family: Ceria;
-    src: url(ceria.otf);
+    font-family: Propaganda;
+    src: url(propaganda.ttf);
 }
 
 html {
@@ -8,23 +8,20 @@ html {
 }
 
 body {
-	background-color: #DDD;
+	background-color: #CCD;
 }
 
 header {
-	background-color: black;
+	background-color: #213F85;
 	color: white;
 	text-align: center;
 }
 
-header>div, header>a>div {
-	display: inline-block;
-	margin-right: 5vw;
-	vertical-align: middle;
+header {
 }
 
-header nav {
-	display: table-row;
+header img {
+	height: 20vh;
 }
 
 header nav div {
@@ -41,16 +38,16 @@ header nav div:hover, header nav div.current {
 }
 
 h1 {
-	font-family: Ceria;
-	font-size: 3em;
+	font-family: Propaganda;
+	font-size: 2.2em;
 	padding: 15px;
 }
 
 h2 {
-	font-family: Ceria;
+	font-family: Propaganda;
 	text-align: center;
-	color: #006C35;
-	font-size: 3em;
+	color: #213F85;
+	font-size: 1.6em;
 	padding: 15px;
 	margin-bottom: 15px;
 }
@@ -81,6 +78,7 @@ p, ul {
 	line-height: 22px;
 	max-width: 800px;
 	min-width: 250px;
+	text-align: justify;
 }
 
 strong {
