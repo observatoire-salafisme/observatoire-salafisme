@@ -24,20 +24,6 @@
 			Tous les faits recensés sont sourcés et recoupés. Toute personne peut contribuer en nous envoyant des sources. Plus la carte est exhaustive, plus elle est utile pour dénoncer des faits contraires au vivre-ensemble.<br/>
 			L'Observatoire de l'implantation salafiste vérifie et recoupe toutes les informations avant de les poster. Si malgré tout une erreur s'était glissée, merci de nous le signaler.<br/>
 		</p>
-		<p>Voici la liste non-exhaustive des faits cartographiés :</p>
-		<ul>
-			<li>Discours violents ou intolérants dans les lieux de culte</li>
-			<li>Harcèlement des femmes pour le port du voile</li>
-			<li>Lieux publics interdits aux femmes (cafés, salles de spectacle ...)</li>
-			<li>Actes de LGBT-phobie</li>
-			<li>Prêches publiques radicaux</li>
-			<li>Extorsion de fonds sur les non-musulmans</li>
-			<li>Pressions sur les musulmans pacifiques</li>
-			<li>Tags islamiste</li>
-			<li>Manquements aux règles d'hygiène et/ou de bien-être des animaux</li>
-			<li>Non-respect de la laïcité telle que définie par la loi de 1905</li>
-		</ul>
-		<p>Tous ces fait sont des délits ou des crimes selon la loi de la République</p>
 	</section>
 </body>
 </html>
