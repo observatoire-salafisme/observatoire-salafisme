@@ -2,14 +2,13 @@
 	<script src="jquery.min.js"></script>
 	<div>
 		<img src="logo.png"/>
-		<div><h1>Observatoire de la radicalisation</h1></div>
+		<div><h1>Observatoire de l'intégrisme</h1></div>
 	</div>
 	<nav>
 		<a href="index.php"><div>Carte</div></a>
-		<a href="rapporter.php"><div>Rapporter un fait</div></a>
 		<a href="liste.php"><div>Liste des sources</div></a>
+		<a href="rapporter.php"><div>Rapporter un fait</div></a>
 		<a href="qui-sommes-nous.php"><div>Qui sommes-nous ?</div></a>
-		<a href="soutien.php"><div>Nous soutenir</div></a>
 	</nav>
 	<script>
 		$(function(){
